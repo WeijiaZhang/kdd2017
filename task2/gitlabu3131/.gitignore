@@ -1,0 +1,5 @@
+*.pyc
+*.csv
+input/*
+temp/*
+test.py
